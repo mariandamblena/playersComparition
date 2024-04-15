@@ -1,0 +1,69 @@
+# depslib dependency file v1.0
+1696571276 source:c:\users\maria\onedrive\documents\universidad\topicos de programacion\tp_20232c_lunes\funciones_enunciado.c
+	"funciones_enunciado.h"
+
+1696770110 c:\users\maria\onedrive\documents\universidad\topicos de programacion\tp_20232c_lunes\funciones_enunciado.h
+	<string.h>
+	<stdio.h>
+
+1696725987 source:c:\users\maria\onedrive\documents\universidad\topicos de programacion\tp_20232c_lunes\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+	"funciones_enunciado.h"
+
+1696794387 c:\users\maria\onedrive\documents\universidad\topicos de programacion\tp_20232c_lunes\funciones.h
+	"funciones_enunciado.h"
+	<math.h>
+	"funciones.h"
+
+1696794415 source:c:\users\maria\onedrive\documents\universidad\topicos de programacion\tp_20232c_lunes\funciones.c
+	"funciones.h"
+
+1697060394 source:c:\users\maria\onedrive\desktop\tp_20232c_lunes\tp_20232c_lunes\funciones.c
+	"funciones.h"
+
+1697060527 c:\users\maria\onedrive\desktop\tp_20232c_lunes\tp_20232c_lunes\funciones.h
+	"funciones_enunciado.h"
+	<math.h>
+	"funciones.h"
+
+1697048068 c:\users\maria\onedrive\desktop\tp_20232c_lunes\tp_20232c_lunes\funciones_enunciado.h
+	<string.h>
+	<stdio.h>
+
+1696571278 source:c:\users\maria\onedrive\desktop\tp_20232c_lunes\tp_20232c_lunes\funciones_enunciado.c
+	"funciones_enunciado.h"
+
+1697006525 source:c:\users\maria\onedrive\desktop\tp_20232c_lunes\tp_20232c_lunes\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	"funciones.h"
+	"funciones_enunciado.h"
+
+1698601932 source:c:\users\maria\onedrive\documents\universidad\topicos de programacion\tp_20232c_lunes_marianodambolena\tp_20232c_lunes\funciones.c
+	"funciones.h"
+
+1698611779 c:\users\maria\onedrive\documents\universidad\topicos de programacion\tp_20232c_lunes_marianodambolena\tp_20232c_lunes\funciones.h
+	"funciones_enunciado.h"
+	<math.h>
+	"funciones.h"
+
+1698111135 c:\users\maria\onedrive\documents\universidad\topicos de programacion\tp_20232c_lunes_marianodambolena\tp_20232c_lunes\funciones_enunciado.h
+	<string.h>
+	<stdio.h>
+
+1698111135 source:c:\users\maria\onedrive\documents\universidad\topicos de programacion\tp_20232c_lunes_marianodambolena\tp_20232c_lunes\funciones_enunciado.c
+	"funciones_enunciado.h"
+
+1698111135 source:c:\users\maria\onedrive\documents\universidad\topicos de programacion\tp_20232c_lunes_marianodambolena\tp_20232c_lunes\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	"funciones.h"
+	"funciones_enunciado.h"
+
